@@ -18,3 +18,7 @@ from 19.36dB to 22.16dB. Similarly, the average RMSE of the estimated
 LWD values after time-resolution improved from 0.55 to 0.20. During the experimental
 analysis, it has been observed that the proposed architecture estimates the
 LWD values better compared to the other time-resolution techniques.
+
+
+
+Published Research Paper: https://ieeexplore.ieee.org/document/9947041
